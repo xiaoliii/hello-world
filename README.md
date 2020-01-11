@@ -1,7 +1,7 @@
 # hello-world
 怎么用Git
 - 队员
-1. 36sunnyseed
+1. 36 sunnyseed
 2. 
 3. 
 4. 
