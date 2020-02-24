@@ -64,6 +64,8 @@ sunnyseed《银河》
 小里《人间草木》
 ```
 
+提交：https://github.com/GC04/hello-world/tree/master/s04e01
+
 
 
 ##### 课后作业：s04e02  我是这样训练作家之耳的
@@ -86,7 +88,9 @@ sunnyseed
 
 讨论：https://github.com/GC04/hello-world/issues/3
 
-提交：
+提交：https://github.com/GC04/hello-world/tree/master/s04e02
+
+
 
 ##### 课后作业：s04e03 古典文体
 
@@ -98,6 +102,8 @@ sunnyseed
 ```
 
 
+
+讨论：https://github.com/GC04/hello-world/issues/4
 
 
 
